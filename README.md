@@ -14,7 +14,7 @@ All functionality works in real time, with the help of Firebase
 Link to view the project
 https://realtyjs.000webhostapp.com/
 
-Used libraries: 
+Used libraries:  
  "redux": "^4.1.0"  
  "redux-thunk": "^2.3.0"   
  "react-redux": "^7.2.4"   
