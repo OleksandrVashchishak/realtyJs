@@ -15,7 +15,7 @@ Link to view the project
 https://realtyjs.000webhostapp.com/
 
 Used libraries:
- "redux": "^4.1.0", 
+ "redux": "^4.1.0", <br>
  "redux-thunk": "^2.3.0", 
  "react-redux": "^7.2.4", 
  "react-router-dom": "^5.2.0", 
